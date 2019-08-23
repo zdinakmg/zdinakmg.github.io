@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael"
-  avatar           : "zdinak-web-2.jpg"
-  bio              : "Economics PhD Candidate. Job Market Candidate. Econometrics."
+  name             : "Michael G. Zdinak"
+  avatar           : "zdinak-web-3.jpg"
+  bio              : "Economics PhD Candidate · Econometrics · Economics · Finance · Researcher · Teacher · Job Market Candidate"
   location         : "Washington University in St. Louis"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
