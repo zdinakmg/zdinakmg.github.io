@@ -49,10 +49,10 @@ Experience
   
 Skills
 ======
-* Computer Languages—Python, Ruby, R, Matlab, SAS, Stata, VBA, PHP, Fortran, C/C++
-* Protocols & APIs—FTP, SSH, XML, OpenMP, Bloomberg, Thomson Reuters
-* Databases—HDF5, SQLite, TSDB, FAME, Microsoft Access
-* Tools—Git, SVN, Emacs, Shell Scripting, & LaTeX 
+* Computer Languages—Python, Ruby, R, Matlab, SAS, Stata, VBA, PHP, Fortran, C/C++.
+* Protocols & APIs—FTP, SSH, XML, OpenMP, Bloomberg, Thomson Reuters.
+* Databases—HDF5, SQLite, TSDB, FAME, Microsoft Access.
+* Tools—Git, SVN, Emacs, Shell Scripting, & LaTeX.
 
 Teaching
 ======
@@ -70,22 +70,20 @@ Awards
 
 Presentations
 ======
-* Midwest Econometrics Group Meeting, 2018. Madison, WI
+* Midwest Econometrics Group Meeting, 2018. Madison, WI.
 
 Co-author Presentations
 ======
 * Asian Meeting of the Econometrics Society, 2019, Xiamen,China.
-* AEA Annual Meeting Poster Session, 2014. Philadelphia, PA
-* International Journal of Central Banking Conference, 2013. Warsaw, Polandy
-* European Debt Crisis Conference, 2012. Washington, DC
+* AEA Annual Meeting Poster Session, 2014. Philadelphia, PA.
+* International Journal of Central Banking Conference, 2013. Warsaw, Poland.
+* European Debt Crisis Conference, 2012. Washington, DC.
  
 References
 ======
 **Werner Ploberger**
-
-Thomas H. Eliot Distinguished Professor in Arts & Science
 <address>
-  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
+  Thomas H. Eliot Distinguished Professor in Arts & Science<br />  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
 </address>
  [Contact](https://economics.wustl.edu/people/werner_ploberger)
  
