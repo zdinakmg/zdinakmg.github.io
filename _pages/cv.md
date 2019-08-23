@@ -10,9 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <address>
-  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899
+  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
 </address>
-
 
 Education
 ======
@@ -30,7 +29,6 @@ Research
 Experience
 ======
 **Federal Reserve Board of Governors**
-
 _Washington, DC_
 * Senior Research Assistant 
   * July 2011-August 2014
@@ -43,14 +41,12 @@ _Washington, DC_
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
 
 **BMW Group**
-
 _Spartanburg, SC_
 * Intern, Finance & Controlling 
 * August 2010-May 2011
   * Audited $5 billion in fixed assets & built database to improve payroll efficiency.
 
 **Securities & Exchange Commission**
-
 _Washington, DC_
 * Intern, Honors College Program 
 * May 2010-August 2010
@@ -59,13 +55,16 @@ _Washington, DC_
   
 Skills
 ======
-Computer Languages—Python, Ruby, R, Matlab, SAS, Stata, VBA, PHP, Fortran, C/C++
+* Computer Languages—Python, Ruby, R, Matlab, SAS, Stata, VBA, PHP, Fortran, C/C++
+* Protocols & APIs—FTP, SSH, XML, OpenMP, Bloomberg, Thomson Reuters
+* Databases—HDF5, SQLite, TSDB, FAME, Microsoft Access
+* Tools—Git, SVN, Emacs, Shell Scripting, & LaTeX 
 
-Protocols & APIs—FTP, SSH, XML, OpenMP, Bloomberg, Thomson Reuters
-
-Databases—HDF5, SQLite, TSDB, FAME, Microsoft Access
-
-Tools—Git, SVN, Emacs, Shell Scripting, & LaTeX 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Awards
 ======
@@ -86,9 +85,5 @@ Co-author Presentations
 * International Journal of Central Banking Conference, 2013. Warsaw, Polandy
 * European Debt Crisis Conference, 2012. Washington, DC
  
-Teaching
+References
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
