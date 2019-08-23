@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael G. Zdinak"
   avatar           : "zdinak-web-2.jpg"
-  bio              : "Economics PhD Candidate Econometrics · Statistics · ML"
-  location         : "Washington University in St. Louis"
-  employer         : "https://economics.wustl.edu/"
+  bio              : "Economics PhD Candidate Washington University in St. Louis Econometrics · Statistics · ML"
+  location         : "St. Louis, MO" # "Washington University in St. Louis"
+  employer         : # "https://economics.wustl.edu/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : zdinakmg@wustl.edu
@@ -102,7 +102,7 @@ author:
   instagram        : 
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zdinakmg/"
+  linkedin         : "zdinakmg"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
