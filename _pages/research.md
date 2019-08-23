@@ -7,4 +7,4 @@ author_profile: true
 
 Under construction
 ---
-Check back for updates!
+Check back for updates.
