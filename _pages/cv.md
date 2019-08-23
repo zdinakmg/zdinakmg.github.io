@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-**Washington University in St. Louis**, _St. Louis, MO_.
+**Washington University in St. Louis**
 * Ph.D. Economics, expected May 2020.
   * Advisor: Werner Ploberger.
   * Thesis: _Information in Risk Neutral Probabilities; Essays in Financial Econometrics_.
@@ -30,7 +30,7 @@ Research
 Experience
 ======
 **Federal Reserve Board of Governors**, _Washington, DC_.
-* Senior Research Assistant, July 2011-August 2014.
+* Senior Research Assistant, _July 2011-August 2014_.
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
 
@@ -39,11 +39,11 @@ Experience
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
 
 **BMW Group**, _Spartanburg, SC_.
-* Intern, Finance & Controlling, August 2010-May 2011.
+* Intern, Finance & Controlling, _August 2010-May 2011_.
   * Audited $5 billion in fixed assets & built database to improve payroll efficiency.
 
 **Securities & Exchange Commission**, _Washington, DC_.
-* Intern, Honors College Program, May 2010-August 2010.
+* Intern, Honors College Program, _May 2010-August 2010_.
   * Analyzed liquidity withdrawals, order book depth, & option market volatility.
   * For joint SEC/CFTC report on the May 2010 "flash crash".
   
@@ -82,7 +82,9 @@ Co-author Presentations
 References
 ======
 **Werner Ploberger**
-* Thomas H. Eliot Distinguished Professor in Arts & Science
+Thomas H. Eliot Distinguished Professor in Arts & Science
 <address>
   Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
 </address>
+ [Contact](https://economics.wustl.edu/people/werner_ploberger)
+ 
