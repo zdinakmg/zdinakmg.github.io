@@ -34,7 +34,7 @@ Experience
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
 
-* Project Coordinator, July 2013-August 2014.
+* Project Coordinator, _July 2013-August 2014_.
   * Facilitated Federal Reserve System's participation in the Financial Stability Board's review of LIBOR. 
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
 
@@ -82,6 +82,7 @@ Co-author Presentations
 References
 ======
 **Werner Ploberger**
+
 Thomas H. Eliot Distinguished Professor in Arts & Science
 <address>
   Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
