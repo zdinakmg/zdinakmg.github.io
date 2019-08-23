@@ -1,5 +1,3 @@
-_Click titles for full abstracts_
-
 ---
 title: "Are Long-Term Inflation Expectations Well Anchored in Brazil, Chile, and Mexico?"
 collection: publications
