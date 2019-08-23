@@ -15,4 +15,4 @@ I use econometric and information theoretic concepts to quantify the gain in inf
 
 Under Construction
 ------
-Students will find all course materials for Econ 494 under the teaching page.
+Students will find all course materials for Econ 494 FL2019 under my teaching page.
