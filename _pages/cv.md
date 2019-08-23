@@ -10,16 +10,15 @@ redirect_from:
 {% include base_path %}
 
 <address>
-  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
+  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> <br />
 </address>
-
-
 
 Education
 ======
-**Washington University in St. Louis**
-_St. Louis, MO_
+**Washington University in St. Louis**, _St. Louis, MO_.
 * Ph.D. Economics, expected May 2020.
+  * Advisor: Werner Ploberger.
+  * Thesis: _Information in Risk Neutral Probabilities; Essays in Financial Econometrics_.
 * M.A. Economics awarded 2016.
 
 Research
@@ -30,22 +29,21 @@ Research
 
 Experience
 ======
-**Federal Reserve Board of Governors**, _Washington, DC_
-* Senior Research Assistant, July 2011-August 2014
+**Federal Reserve Board of Governors**, _Washington, DC_.
+* Senior Research Assistant, July 2011-August 2014.
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
 
-* Project Coordinator, July 2013-August 2014
+* Project Coordinator, July 2013-August 2014.
   * Facilitated Federal Reserve System's participation in the Financial Stability Board's review of LIBOR. 
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
 
-**BMW Group**, _Spartanburg, SC_
-* Intern, Finance & Controlling 
-* August 2010-May 2011
+**BMW Group**, _Spartanburg, SC_.
+* Intern, Finance & Controlling, August 2010-May 2011.
   * Audited $5 billion in fixed assets & built database to improve payroll efficiency.
 
-**Securities & Exchange Commission**, _Washington, DC_
-* Intern, Honors College Program, May 2010-August 2010
+**Securities & Exchange Commission**, _Washington, DC_.
+* Intern, Honors College Program, May 2010-August 2010.
   * Analyzed liquidity withdrawals, order book depth, & option market volatility.
   * For joint SEC/CFTC report on the May 2010 "flash crash".
   
@@ -83,3 +81,8 @@ Co-author Presentations
  
 References
 ======
+**Werner Ploberger**
+* Thomas H. Eliot Distinguished Professor in Arts & Science
+<address>
+  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
+</address>
