@@ -5,7 +5,7 @@ permalink: /publication/2014-06-01-ijcb-inflation-number-4
 excerpt: 'We consider whether long-term inflation expectations have become better anchored in Brazil, Chile, and Mexico, using survey- and financial-market-based measures of long-term inflation expectations. This paper is the first to examine the evidence from Brazil and Mexico. We find that inflation expectations have become much better anchored over the past decade in all three countries.'
 date: 2014-06-01
 venue: 'International Journal of Central Banking'
-paperurl: [Download paper here]'http://zdinakmg.github.io/files/ijcb14q2a14.pdf'
+paperurl: 'http://zdinakmg.github.io/files/ijcb14q2a14.pdf'
 ---
 
 **Abstract**
@@ -16,4 +16,4 @@ JEL Codes: D84, E31, E43, E44, E52, E58, G14.
 
 [Download paper here](https://www.ijcb.org/journal/ijcb14q2a14.htm)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
