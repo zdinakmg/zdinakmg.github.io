@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Michael G. Zdinak"
-  avatar           : "zdinak-web-3.jpg"
-  bio              : "Economics PhD Candidate · Econometrics · Economics · Finance · Researcher · Teacher · Job Market Candidate"
+  avatar           : "zdinak-web-2.jpg"
+  bio              : "Economics PhD Candidate Econometrics · Statistics Researcher & Teacher Job Market Candidate"
   location         : "Washington University in St. Louis"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : zdinakmg[at]wustl.edu
+  email            : zdinakmg@wustl.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
