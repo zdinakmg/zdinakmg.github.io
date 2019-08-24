@@ -41,14 +41,18 @@ Experience
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
   * _July 2013-August 2014_.
 
-**BMW Group**, _Spartanburg, SC_.
-* Intern, Finance & Controlling, _2010-2011_.
+**BMW Group**
+#### _Spartanburg, SC_
+* Intern, Finance & Controlling
   * Audited $5 billion in fixed assets & built database to improve payroll efficiency.
+  * _August 2010-May 2011_.
 
-**Securities & Exchange Commission**, _Washington, DC_.
-* Intern, Honors College Program, _2010_.
+**Securities & Exchange Commission** 
+#### _Washington, DC_
+* Intern, Honors College Program
   * Analyzed liquidity withdrawals, order book depth, & option market volatility.
   * For joint SEC/CFTC report on the May 2010 "flash crash".
+  * _May 2010-August 2010_.
   
 Skills
 ======
