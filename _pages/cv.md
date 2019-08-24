@@ -30,8 +30,9 @@ Research
 Experience
 ======
 **Federal Reserve Board of Governors** 
-* _Washington, DC_
-* Senior Research Assistant, _2011-2014_.
+#### _Washington, DC_
+#### _July 2011-August 2014_
+* Senior Research Assistant, _July 2011-August 2014_.
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
 
@@ -44,7 +45,7 @@ Experience
   * Audited $5 billion in fixed assets & built database to improve payroll efficiency.
 
 **Securities & Exchange Commission**, _Washington, DC_.
-* Intern, Honors College Program, _2010.
+* Intern, Honors College Program, _2010_.
   * Analyzed liquidity withdrawals, order book depth, & option market volatility.
   * For joint SEC/CFTC report on the May 2010 "flash crash".
   
