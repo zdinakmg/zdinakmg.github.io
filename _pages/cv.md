@@ -31,14 +31,15 @@ Experience
 ======
 **Federal Reserve Board of Governors** 
 #### _Washington, DC_
-#### _July 2011-August 2014_
-* Senior Research Assistant, _July 2011-August 2014_.
+* Senior Research Assistant
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
+  * _July 2011-August 2014_.
 
-* Project Coordinator, _2013-2014_.
+* Project Coordinator
   * Facilitated Federal Reserve System's participation in the Financial Stability Board's review of LIBOR. 
   * Committee co-chaired by Governor Jeremy Stein & Martin Wheatley of the UK's Financial Conduct Authority.
+  * _July 2013-August 2014_.
 
 **BMW Group**, _Spartanburg, SC_.
 * Intern, Finance & Controlling, _2010-2011_.
