@@ -29,7 +29,8 @@ Research
 
 Experience
 ======
-**Federal Reserve Board of Governors**, _Washington, DC_.
+## Federal Reserve Board of Governors 
+### _Washington, DC_.
 * Senior Research Assistant, _July 2011-August 2014_.
   * Developed software to analyze the economic impact of developments in international financial markets. 
   * Collaborated with staff economists to produce regular memos, special briefings, & original research.
