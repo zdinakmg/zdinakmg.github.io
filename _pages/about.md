@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Economics at Washington University in St. Louis. My research interests lie in econometrics, economics and finance. In broad terms, I investigates how financial markets update information.
+I'm a PhD Candidate in Economics at Washington University in St. Louis. In broad terms, I investigates how financial markets update information.
 
 Prior to graduate school, I was a Research Assistance at the Board of Governors of the Federal Reserve System, where I worked in the Division of International Finance, and an intern at BMW Group and the Securities and Exchange Commission.
 
