@@ -18,8 +18,11 @@ Education
 **Washington University in St. Louis**
 * Ph.D. Economics, expected May 2020.
   * Advisor: Werner Ploberger.
-  * Thesis: _Information in Risk Neutral Probabilities; Essays in Financial Econometrics_.
-* M.A. Economics awarded 2016.
+  * Thesis: _Information in the Risk-Neutral Measure—Essays in Financial Econometrics_.
+* M.A. Economics, 2016.
+
+**University of Cincinnati**
+* B.A. Economics, 2010.
 
 Research
 ======
