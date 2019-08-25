@@ -22,7 +22,7 @@ Education
 * M.A. Economics, 2016.
 
 **University of Cincinnati**
-* B.A. Economics, 2010.
+* B.A. Economics, 2010. B.A. International Affairs & B.A. Political Science, 2008.
 
 Research
 ======
