@@ -9,10 +9,6 @@ redirect_from:
 ---
 I'm a PhD Candidate in Economics at Washington University in St. Louis. In broad terms, my research investigates how financial markets update information. 
 
-I model the evolution of the density function implied by option prices at high frequencies, daily & intradaily. Intuitively, this probability represents the market’s belief in the distribution of future prices of an underlying asset. As this density evolves over time, it becomes more and more concentrated. At expiration, the measure collapses to a single point. 
-
-I use information theoretic concepts to quantify the gain in information this process represents over both the trading day and an option’s life-cycle. The research has interesting implications for economics, finance, and statistics. 
-
-Under Construction
+Updates
 ------
-Students will find all course materials for Econ 494 FL2019 under my teaching page.
+Students will find all course materials for Econ [494](https://zdinakmg.github.io/teaching/2019-Econ-494) FL2019 under my teaching page.
