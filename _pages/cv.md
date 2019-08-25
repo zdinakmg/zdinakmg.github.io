@@ -93,7 +93,7 @@ References
 ======
 **Werner Ploberger**
 <address>
-  Thomas H. Eliot Distinguished Professor in Arts & Science<br />  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
+Thomas H. Eliot Distinguished Professor in Arts & Science<br />  Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> 
 </address>
- [Contact](https://economics.wustl.edu/people/werner_ploberger)
+[Contact](https://economics.wustl.edu/people/werner_ploberger)
  
