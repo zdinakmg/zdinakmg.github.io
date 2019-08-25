@@ -3,8 +3,8 @@ title: "Information in Risk Neutral Probabilities"
 collection: publications
 permalink: /publication/2019-08-01-wp-infornd-number-3
 excerpt: 'We propose an estimator of the risk-neutral density which does not bias the measurement over time as an alternative to standard nonparametric approaches. We estimate the density for options with the same expiration date, and compute measures of information. Parametric analysis shows the majority of the information in our density accrues near maturity according to a logarithmic or power law. No existing theoretical model describes this process.'
-date: 
-venue: 
+date: 2020-01-01
+venue: 'Working Paper'
 paperurl: 
 ---
 
