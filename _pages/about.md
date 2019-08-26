@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD Candidate in Economics at Washington University in St. Louis. In broad terms, my research investigates how financial markets update information.
 
-Prior to graduate school, I was a Research Assistance at the Board of Governors of the Federal Reserve System, where I worked in the Division of International Finance, and an intern at BMW Group and the Securities and Exchange Commission.
+Before grad school, I was a Research Assistance at the Board of Governors of the Federal Reserve, where I worked in the Division of International Finance, and an intern at both BMW Group and the Securities and Exchange Commission.
 
 Updates
 ------
