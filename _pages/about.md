@@ -16,9 +16,9 @@ Before graduate school, I was a Research Assistant at the Board of Governors of 
 
 Downloads
 ------
-*[Paper Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
-*[Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
-*[Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
+* [Paper Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
+* [Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
+* [Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
 
 Updates
 ------
