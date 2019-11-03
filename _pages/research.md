@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+[Paper Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
