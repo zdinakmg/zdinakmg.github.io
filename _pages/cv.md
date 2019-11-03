@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+**Download**
+[Download paper here](https://www.ijcb.org/journal/ijcb14q2a14.htm)
+
 <address>
   Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> <br />
 </address>
