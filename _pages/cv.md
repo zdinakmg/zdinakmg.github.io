@@ -11,6 +11,7 @@ redirect_from:
 
 **Download**
 [Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
+
 **Download**
 [Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
 
