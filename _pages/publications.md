@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
-[Paper Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
+**Download**
+[Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
