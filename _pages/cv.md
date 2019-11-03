@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 **Download**
+
+
 [Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
 
-**Download**
 [Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
 
 <address>
