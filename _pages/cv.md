@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 **Download**
-[Download paper here](https://www.ijcb.org/journal/ijcb14q2a14.htm)
+[Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
+**Download**
+[Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
 
 <address>
   Department of Economics<br /> Washington University in St. Louis<br /> One Brookings Drive<br />  St. Louis, MO 63130-4899<br /> <br />
@@ -83,6 +85,7 @@ Awards
 
 Presentations
 ======
+* Midwest Econometrics Group Meeting, 2019. Columbus, OH.
 * Midwest Econometrics Group Meeting, 2018. Madison, WI.
 
 Co-author Presentations
