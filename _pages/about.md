@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Economics at Washington University in St. Louis. My interests lie in econometrics, statistics, economics and finance. In broad terms, my research investigates the interplay of information and uncertainty in financial markets; how uncertainty is measured, how information affects uncertainty, and how information arrives. I'm on the job market this year, and will be available for interviews at the 2020 AEA/ASSA Annual Meeting in San Diego, CA.
+I'm a PhD Candidate in Economics at Washington University in St. Louis. My interests lie in econometrics, statistics, economics and finance. In broad terms, my research investigates the interplay of information and uncertainty in financial markets; how uncertainty is measured, how information affects uncertainty, and how information arrives. 
+
+I'm on the job market this year, and will be available for interviews at the 2020 AEA/ASSA Annual Meeting in San Diego, CA.
 
 My job market paper introduces a high-frequency analysis of the price discovery process in option markets. I quantify in real-time the information contained in the probability measure implied by option prices. The paper is the first to estimate the intraday dynamics of the risk-neutral density over an option's life-cycle, and offers several contributions to the literature. I find the intraday arrival of information is not continuous, and often increases in discrete intervals. I use this fact to identify large-information events over the six years in the sample.
 
