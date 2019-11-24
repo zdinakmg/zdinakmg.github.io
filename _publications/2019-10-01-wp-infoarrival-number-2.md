@@ -15,6 +15,6 @@ This article introduces a new high-frequency analysis of six years of data for o
 
 JEL Classifations: C14, G13, G14.
 
-[Download]
+[Download paper here](https://zdinakmg.github.io/files/zdinakmg_jmp.pdf)
 
 Keywords: High-frequency data, options pricing, structural-breaks, jumps, information & entropy
