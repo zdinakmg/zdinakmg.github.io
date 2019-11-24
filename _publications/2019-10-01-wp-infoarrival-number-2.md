@@ -6,7 +6,7 @@ authors: 'Michael Zdinak'
 excerpt: Job Market Paper. We introduce a new high-frequency analysis of options written on the S&P 500, and quantify in real-time the information contained in the probability measure implied by option prices. We find the intraday flow of information summarizing the expected future price of the index is not continuous, and often increases in discrete intervals. This fact is used to identify large-information events over the six years in our sample.
 date: 2019-10-01
 venue: 'Working Paper'
-paperurl: 
+paperurl: 'https://zdinakmg.github.io/files/zdinakmg_jmp.pdf'
 ---
 
  **Job Market Paper**
@@ -15,5 +15,6 @@ This article introduces a new high-frequency analysis of six years of data for o
 
 JEL Classifations: C14, G13, G14.
 
+[Download]
 
 Keywords: High-frequency data, options pricing, structural-breaks, jumps, information & entropy
