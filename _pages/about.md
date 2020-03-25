@@ -18,14 +18,14 @@ Before graduate school, I was a Research Assistant at the Board of Governors of 
 
 Downloads
 ------
-Updated March 2020
 * [Job Market Paper](https://zdinakmg.github.io/files/zdinakmg_jmp.pdf) 
 * [Paper Abstracts](https://zdinakmg.github.io/files/zdinakmg_abstract.pdf)
 * [Academic Vitae](https://zdinakmg.github.io/files/zdinakmg_cv.pdf)
 * [Extended Vitae](https://zdinakmg.github.io/files/zdinakmg_cv_plus.pdf)
+*Updated March 2020.*
 
 Updates
 ------
-The latest version of my job market paper is now available.
+**NEW** The latest version of my job market paper is now available.
 
 Students will find the syllabi for Econ [494](https://zdinakmg.github.io/teaching/2019-Econ-494) and [4941](https://zdinakmg.github.io/teaching/2019-Econ-4941) FL2019 under my teaching page.
