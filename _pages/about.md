@@ -27,6 +27,6 @@ Downloads
 
 Updates
 ------
-**NEW**. Updated job market paper now available.
+**New**. Updated job market paper now available.
 
 Students will find the syllabi for Econ [494](https://zdinakmg.github.io/teaching/2019-Econ-494) and [4941](https://zdinakmg.github.io/teaching/2019-Econ-4941) FL2019 under my teaching page.
