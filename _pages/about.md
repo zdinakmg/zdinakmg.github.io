@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Candidate in Economics at Washington University in St. Louis. My interests lie in econometrics, statistics, economics and finance. In broad terms, my research investigates the interplay of information and uncertainty in financial markets; how uncertainty is measured, how information affects uncertainty, and how information arrives. 
+I'm a PhD Candidate in Economics at Washington University in St. Louis. My interests lie in econometrics, statistics, and financial economics. In broad terms, my research investigates the interplay of information and uncertainty in financial markets; how uncertainty is measured, how information affects uncertainty, and how information arrives. 
 
 I'm on the job market and am available to interview. 
 
